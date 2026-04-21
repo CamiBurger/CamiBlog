@@ -114,4 +114,3 @@ Candidates under consideration:
 
 - This is a personal project and not open for public contribution
 - Private sections are invite-only and not publicly accessible by design
-- Domains: `camis.site` and `camillas.site` both point to the same project
