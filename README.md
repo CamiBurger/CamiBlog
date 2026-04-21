@@ -3,8 +3,6 @@ A blog for Cami's projects
 
 > My personal website — a multi-context home base for whoever wants to know more about me.
 
-**Live domains:** `camis.site` · `camillas.site`
-
 ---
 
 ## What is this?
